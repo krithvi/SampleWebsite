@@ -1,0 +1,59 @@
+body {
+	background: #71bffa;
+	text-align: center;
+}
+#main {
+	background: #ffab19;
+	border: solid 2px #5900b3;
+	padding: 10px;
+}
+h1 {
+	text-align: justified;
+	font-family: 'Yatra One', cursive;
+	font: 24pt;
+	color: #5900b3;
+	text-shadow: 4px 4px 4px #aaa;
+}
+hr {
+	height: 2px;
+	color: #5900b3;
+}
+p {
+	font-family: 'Mukta Malar', sans-serif;
+	font-size: 12pt;
+	text-align: left;
+	text-indent: 48px;
+	color: #360fd2;
+}
+ul {
+
+}
+
+ a {
+	font-size: 1.8em;
+	font-family: 'Yatra One', cursive;
+	display: block;
+	color: #5900b3;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+ a:hover {
+	text-decoration: underline;
+	background-color: #ffab19;
+	
+}
+
+
+ a:active {
+	color: #5900b3;
+	text-decoration: underline;
+}
+
+#cpyr {
+	font-family: 'Mukta Malar', sans-serif;
+	font-size: 10pt;
+	text-align: right;
+	color: #360fd2;
+}
